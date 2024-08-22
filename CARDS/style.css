@@ -18,6 +18,20 @@ p{
 span{
     font-weight: 900;
 }
+
+.previous{
+    
+    margin-left: 0;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    align-items: center;
+}
+
 .container{
     position: relative;
     min-width: 100%;
